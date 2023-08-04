@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+
+.containerDiv {
+  max-width: 500px;
+  width: 100%;
+  margin: 10% auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+button.gray-btn {
+  width: 45px;
+  padding: 5px 12px;
+  border-radius: 50%;
+  background-color: black;
+  border: none;
+  color: #fff;
+  font-size: 30px;
+  cursor: pointer;
+  margin: 10px;
+}
+.warper {
+  padding: 10% 10%;
+  width: 163px;
+  margin: 30px auto;
+  background-color: #ededed;
+  border-radius: 10%;
+}
+.blue{
+  background-color: lightblue;
+}
+.red{
+  background-color: red;
+}
